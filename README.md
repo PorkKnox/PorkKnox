@@ -2,6 +2,8 @@ Hi, I'm Caden!
 [Novice Programmer](https://github.com/porkknox), and [Cybersecurity/IT Support Specialist](https://www.linkedin.com/in/caden-williamson)
 ================================================================
 
+---
+
 ## 👨‍💻Cybersecurity Projects💾
 
 - **[Random/Uncatigorized Projects](https://github.com/porkknox/hello-world)**
