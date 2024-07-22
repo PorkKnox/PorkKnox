@@ -23,14 +23,14 @@ Hi, I'm Caden!
 
 ## 🏢<u>Experience</u>
 
-#### Milwaukee Public Schools - *Milwaukee, WI* - IT Support Technician
+### <b>Milwaukee Public Schools - *Milwaukee, WI* - IT Support Technician</b>
 ##### [5225 W Vliet St, Milwaukee, WI 53208 - (414) 475-8393](https://shorturl.at/gRZLN) <br/> March 2023 - Present
   - Provided technical support and customer service.
   - Diagnosed and repaired Chromebooks, as well as other hardware.
   - Maintained a clean work environment.
   - Utilized Cherwell, SCCM, AD, Chrome Admin Console, and Gopher Assistant.
 
-#### AE Business Solutions - *Madison, WI* - IT Support Technician
+### <b>AE Business Solutions - *Madison, WI* - IT Support Technician</b>
 ##### [2323 Crossroads Dr, Madison, WI 53718 - (608) 395-2900](https://shorturl.at/g0YXI) <br/> October 2022 - March 2023 (5 months)
   - Delivered technical support to customers.
   - Repaired Chromebooks and managed hardware maintenance.
