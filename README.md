@@ -4,13 +4,24 @@ Hi, I'm Caden!
 
 ---
 
-## 👨‍💻Cybersecurity Projects💾
-
-- **[Random/Uncatigorized Projects](https://github.com/porkknox/hello-world)**
+## ✏️<u>Skills</u>
+  - Hardware and Software Troubleshooting
+  - Network Configuration
+  - Google Admin Console
+  - Cherwell, SCCM, AD
+  - Python, Linux, SQL
 
 ---
 
-## Experience
+## 🐍<u>Python Projects</u>
+- **[Random/Uncatigorized Projects](https://github.com/porkknox/hello-world)**
+
+## 👨‍💻<u>Cybersecurity Projects</u>
+- N/A
+
+---
+
+## 🏢<u>Experience</u>
 
 #### Milwaukee Public Schools - *Milwaukee, WI* - IT Support Technician
 ##### [5225 W Vliet St, Milwaukee, WI 53208 - (414) 475-8393](https://shorturl.at/gRZLN) <br/> March 2023 - Present
@@ -28,7 +39,7 @@ Hi, I'm Caden!
 
 ---
 
-## 🎓Certifications
+## 🎓<u>Certifications</u>
 
   - **[Google IT Support Professional Certification](https://coursera.org/share/6da63dddb107e55eb2dee80dc6a10677)**
     - *August 2022 - February 2023*
