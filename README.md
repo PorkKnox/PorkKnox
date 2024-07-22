@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caden! <br/><a href="https://github.com/porkknox">Beginner Programmer</a>, <a href="https://www.linkedin.com/in/caden-williamson">Cybersecurity</a> and IT Support Specialist
+<h1>Hi, I'm Caden! <br/><a href="https://github.com/porkknox">Beginner Programmer</a>, <a href="https://www.linkedin.com/in/caden-williamson">Cybersecurity and IT Support Specialist.</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
