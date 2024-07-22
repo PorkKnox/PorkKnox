@@ -3,11 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Random/Uncatigorized Projects](https://github.com/porkknox/hello-world)</b>
-    
-- Data Structures and Algorithms Practice (AlgoExpert)
-<!-- EXAMPLE
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
--->
+
+<!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
 - <b>PowerShell</b>
@@ -16,7 +13,6 @@
 
 - <b>Python</b>
 
-<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="CadenWilliamson | YouTube" width="22px" src="url" />][youtube]
