@@ -13,8 +13,6 @@
 - <b>C# (.NET Desktop Applications)</b>
 
 - <b>Python</b>
-  -
-
 
 <!--
 <h2> 🤳 Connect with me:</h2>
