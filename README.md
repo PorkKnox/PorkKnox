@@ -1,8 +1,10 @@
-<h1>Hi, I'm Caden! <br/><a href="https://github.com/porkknox">Novice Programmer</a>, <a href="https://www.linkedin.com/in/caden-williamson">Cybersecurity and IT Support Specialist.</a>
+<h1>Hi, I'm Caden! <br/><a href="https://github.com/porkknox">Novice Python Programmer</a>, <a href="https://www.linkedin.com/in/caden-williamson">Cybersecurity and IT Support Specialist.</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>[Random/Uncatigorized Projects](https://github.com/porkknox/hello-world)</b>
+    
+- Data Structures and Algorithms Practice (AlgoExpert)
 <!-- EXAMPLE
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 -->
