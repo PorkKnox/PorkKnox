@@ -7,7 +7,8 @@ Hi, I'm Caden!\
   - Network Configuration
   - Google Admin Console
   - Cherwell, SCCM, AD
-  - Python, Linux, SQL
+  - Python, SQL
+  - Linux(Ubuntu, Kali), Windows
 
 ---
 
