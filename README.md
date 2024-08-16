@@ -16,7 +16,7 @@ Hi, I'm Caden!\
 - **[Random/Uncatigorized Projects](https://github.com/cadenwilliamson/hello-world)**
 
 ## 👨‍💻<u>Cybersecurity Projects</u>
-- [Password Strength Tester](https://github.com/cadenwilliamson/Cybersecurity-Projects/tree/main/1-Test_Password_Strength)
+- [Password Strength Tester](https://github.com/cadenwilliamson/CybersecurityProjects/tree/main/)
 
 ---
 
