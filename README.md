@@ -8,7 +8,7 @@ Hi, I'm Caden!\
   - Google Admin Console
   - Cherwell, SCCM, AD
   - Python, SQL
-  - Linux(Ubuntu, Kali), Windows
+  - Linux(Ubuntu, Kali, CLI), Windows
 
 ---
 
