@@ -1,6 +1,6 @@
 # Hi, I'm Caden! [Novice Programmer](https://github.com/cadenwilliamson), and [Cybersecurity/IT Support Specialist](https://www.linkedin.com/in/caden-williamson)
 
-## ✏️<u>Skills</u>
+## ✏️Skills
 
 - Hardware and Software Troubleshooting
 - Network Configuration
@@ -11,21 +11,21 @@
 
 ---
 
-## 🐍<u>Python Projects</u>
+## 🐍Python Projects
 
 - **[Random/Uncatigorized Projects](https://github.com/cadenwilliamson/hello-world)**
 
-## 👨‍💻<u>Cybersecurity Projects</u>
+## 👨‍💻Cybersecurity Projects
 
 - **[Current Project Repository](https://github.com/cadenwilliamson/CybersecurityProjects/tree/main/) || 07/2024 - PRESENT**
 
 ---
 
-## 🏢<u>Experience</u>
+## 🏢Experience
 
 ### **Milwaukee Public Schools - *Milwaukee, WI* - IT Support Technician**
 
-#### [5225 W Vliet St, Milwaukee, WI 53208 - (414) 475-8393](https://shorturl.at/gRZLN) <br/> March 2023 - Present
+#### [5225 W Vliet St, Milwaukee, WI 53208 - (414) 475-8393](https://shorturl.at/gRZLN) </br> March 2023 - Present
 
 - Provided technical support and customer service.
 - Diagnosed and repaired Chromebooks, as well as other hardware.
@@ -34,7 +34,7 @@
 
 ### **AE Business Solutions - *Madison, WI* - IT Support Technician**
 
-#### [2323 Crossroads Dr, Madison, WI 53718 - (608) 395-2900](https://shorturl.at/g0YXI) <br/> October 2022 - March 2023 (5 months)
+#### [2323 Crossroads Dr, Madison, WI 53718 - (608) 395-2900](https://shorturl.at/g0YXI) </br> October 2022 - March 2023 (5 months)
 
 - Delivered technical support to customers.
 - Repaired Chromebooks and managed hardware maintenance.
@@ -43,7 +43,7 @@
 
 ---
 
-## 🎓<u>Certifications</u>
+## 🎓Certifications
 
 - **[Google IT Support Professional Certification](https://coursera.org/share/6da63dddb107e55eb2dee80dc6a10677)**
   - *August 2022 - February 2023*
