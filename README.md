@@ -13,7 +13,7 @@
 
 ## 🐍Python Projects
 
-- **[Random/Uncatigorized Projects]([https://github.com/cadenwilliamson/hello-world](https://github.com/cadenwilliamson/VSCode/tree/main/Python))**
+- **[Random/Uncatigorized Projects](https://github.com/cadenwilliamson/VSCode/tree/main/Python)**
 
 ## 👨‍💻Cybersecurity Projects
 
