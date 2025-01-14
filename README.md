@@ -1,4 +1,4 @@
-# Hi, I'm Caden Williamson! <br/> [Novice Programmer](https://github.com/cadenwilliamson), and [Cybersecurity/IT Support Specialist](https://www.linkedin.com/in/caden-williamson)
+# Hi, I'm Caden Williamson! </br> [Novice Programmer](https://github.com/cadenwilliamson), and [Cybersecurity/IT Support Specialist](https://www.linkedin.com/in/caden-williamson)
 
 ## ✏️Skills
 
@@ -6,18 +6,22 @@
 - Network Configuration
 - Google Admin Console
 - Cherwell, SCCM, AD
-- Python, SQL
+- Python, C++, SQL
 - Linux(Ubuntu, Kali, CLI), Windows
 
 ---
 
 ## 🐍Python Projects
 
-- **[Random/Uncatigorized Projects](https://github.com/cadenwilliamson/hello-world)**
+- **[Random/Uncatigorized Projects]([https://github.com/cadenwilliamson/hello-world](https://github.com/cadenwilliamson/VSCode/tree/main/Python))**
 
 ## 👨‍💻Cybersecurity Projects
 
 - **(TBD)**
+
+## 📜C++ Projects
+
+- **[Random C++ Projects](https://github.com/cadenwilliamson/VSCode/tree/main/C%2B%2B)**
 
 ---
 
